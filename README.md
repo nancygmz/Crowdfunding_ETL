@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 ### description
-This project demonstrates how to build an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform the data. Then you transform the data. Additionally create four CSV files and use the CSV file data to create an ERD and a table schema. Lastly, upload the CSV file data into a Postgres database and ensure the data imported correctly.
+This project demonstrates how to build an ETL pipeline using Python, Pandas, and Python dictionary methods to extract and transform the data. Additionally create four CSV files and use the CSV file data to create an ERD and a table schema. Lastly, upload the CSV file data into a Postgres database and ensure the data imported correctly.
 
 
 
